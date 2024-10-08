@@ -11,8 +11,8 @@ This is a simple expense tracking application built with Java Spring Boot. Users
 
 ## Screenshots:
 
-**Home Page
-**
+Home Page
+
 ![image](https://github.com/user-attachments/assets/a6ab4437-8749-4fd3-993a-edee40fc965c)
 
 Add Expense
