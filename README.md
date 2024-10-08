@@ -34,6 +34,9 @@ Delete Expense
   ```bash
   git clone https://github.com/your-username/expense-tracker.git
 - Switch to start branch and run this command
-```bash
-   mvn spring-boot:run
+  ```bash
+  mvn spring-boot:run
 
+## Contact: 
+For any queries or support regarding this project, feel free to reach out:
+**Email:** [mahalakshmi.it21@bitsathy.ac.in](mailto:mahalakshmi.it21@bitsathy.ac.in)
