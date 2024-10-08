@@ -10,16 +10,21 @@ This is a simple expense tracking application built with Java Spring Boot. Users
 - Total amount calculation.
 
 ## Screenshots:
-Home Page
+
+**Home Page
+**
 ![image](https://github.com/user-attachments/assets/a6ab4437-8749-4fd3-993a-edee40fc965c)
 
 Add Expense
+
 ![image](https://github.com/user-attachments/assets/b15310ce-5a22-42e3-9368-c09e0fcabf7a)
 
 Update Expense
+
 ![image](https://github.com/user-attachments/assets/d7b22e98-cc75-4911-ba97-634dbaa6451d)
 
 Delete Expense
+
 ![image](https://github.com/user-attachments/assets/4789cb88-6f9f-456e-8a0a-9aa7eab3e859)
 
 
